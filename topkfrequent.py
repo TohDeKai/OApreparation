@@ -13,6 +13,8 @@ class Solution:
         iterate through dict, let indice of bucket arr represent number of elements, also the value of the hashmap, key be the value of the arr.
         to find most frequent k elements, just select the k elements from the back
         we can do this because the answer is guaranteed to be unique
+
+        O(n) where n is the number of elements
         """
 
         # creating hashmap
