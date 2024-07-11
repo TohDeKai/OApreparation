@@ -13,6 +13,7 @@
 | 3           | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 11          | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |
 | 15          | Medium     | [3Sum](https://leetcode.com/problems/3sum/) |
+| 36          | Medium     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
 | 128         | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 153         | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
