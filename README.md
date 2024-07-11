@@ -16,7 +16,7 @@
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
 | 128         | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 153         | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
-| 165         | Medium     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solutions/5460881/easy-to-understand-o-1-space-complexity-o-n-time-complexity-solution/) |
+| 165 *         | Medium     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solutions/5460881/easy-to-understand-o-1-space-complexity-o-n-time-complexity-solution/) |
 | 167         | Medium     | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 238         | Medium     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |
 | 347         | Medium     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |
@@ -24,3 +24,5 @@
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
 |             | Medium     | [String Encode and Decode](https://neetcode.io/problems/string-encode-and-decode) |
 | 42          | Hard       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |
+
+_\* includes an solution with my explaination. Click on the problem link to read more!_
