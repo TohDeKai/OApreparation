@@ -25,7 +25,6 @@
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 875         | Medium     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description) |
 | 981         | Medium     | [Time Based Key Value-Store](https://leetcode.com/problems/time-based-key-value-store/description) |
-
 |             | Medium     | [String Encode and Decode](https://neetcode.io/problems/string-encode-and-decode) |
 | 42          | Hard       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |
 
