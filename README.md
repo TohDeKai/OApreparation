@@ -26,7 +26,9 @@
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 875         | Medium     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description) |
 | 981         | Medium     | [Time Based Key Value-Store](https://leetcode.com/problems/time-based-key-value-store/description) |
+| 1509         | Medium     | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description) |
 |             | Medium     | [String Encode and Decode](https://neetcode.io/problems/string-encode-and-decode) |
 | 42          | Hard       | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) |
+| 76          | Hard       | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |
 
 _\* includes an solution with my explaination. Click on the problem link to read more!_
