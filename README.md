@@ -17,6 +17,7 @@
 | 36          | Medium     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
 | 128         | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
+| 150         | Medium     | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
 | 153         | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
 | 155         | Medium     | [Min Stack](https://leetcode.com/problems/min-stack/description) |
 | 165 *         | Medium     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solutions/5460881/easy-to-understand-o-1-space-complexity-o-n-time-complexity-solution/) |
