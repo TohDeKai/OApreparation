@@ -18,6 +18,7 @@
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
 | 128         | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 153         | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
+| 155         | Medium     | [Min Stack](https://leetcode.com/problems/min-stack/description) |
 | 165 *         | Medium     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solutions/5460881/easy-to-understand-o-1-space-complexity-o-n-time-complexity-solution/) |
 | 167         | Medium     | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 238         | Medium     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |
