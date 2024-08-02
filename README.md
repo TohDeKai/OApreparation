@@ -23,6 +23,7 @@
 | 238         | Medium     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |
 | 347         | Medium     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 424         | Medium     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
+| 567         | Medium     | [Permutation In String](https://leetcode.com/problems/permutation-in-string/description) |
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 875         | Medium     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description) |
 | 981         | Medium     | [Time Based Key Value-Store](https://leetcode.com/problems/time-based-key-value-store/description) |
