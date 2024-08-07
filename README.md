@@ -28,6 +28,8 @@
 | 424         | Medium     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
 | 567         | Medium     | [Permutation In String](https://leetcode.com/problems/permutation-in-string/description) |
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
+| 739         | Medium     | [Daily Temperatures](| 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
+) |
 | 875         | Medium     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description) |
 | 981         | Medium     | [Time Based Key Value-Store](https://leetcode.com/problems/time-based-key-value-store/description) |
 | 1509         | Medium     | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/description) |
