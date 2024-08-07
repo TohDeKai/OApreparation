@@ -13,6 +13,7 @@
 | 3           | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 11          | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |
 | 15          | Medium     | [3Sum](https://leetcode.com/problems/3sum/) |
+| 22          | Medium     | [Generate Paretheses](https://leetcode.com/problems/generate-parentheses/) |
 | 33          | Medium     | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
 | 36          | Medium     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
