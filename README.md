@@ -10,6 +10,7 @@
 | 217         | Easy       | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |
 | 226         | Easy       | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
 | 242         | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |
+| 2053         | Easy       | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/?envType=daily-question&envId=2024-08-05) |
 | 3           | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 11          | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |
 | 15          | Medium     | [3Sum](https://leetcode.com/problems/3sum/) |
