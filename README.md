@@ -29,6 +29,7 @@
 | 347         | Medium     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 424         | Medium     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
 | 567         | Medium     | [Permutation In String](https://leetcode.com/problems/permutation-in-string/description) |
+| 695         | Medium     | [Max Area Of Island](https://leetcode.com/problems/max-area-of-island/description/) |
 | 704         | Medium     | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 739         | Medium     | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |
 | 875         | Medium     | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description) |
