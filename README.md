@@ -4,12 +4,14 @@
 | 20          | Easy       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |
 | 21          | Easy       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |
 | 104         | Easy       | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |
+| 110         | Easy       | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |
 | 121         | Easy       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 125         | Easy       | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
 | 206         | Easy       | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
 | 217         | Easy       | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |
 | 226         | Easy       | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
 | 242         | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) |
+| 543         | Easy     | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) |
 | 746         | Easy       | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) |
 | 2053         | Easy       | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/?envType=daily-question&envId=2024-08-05) |
 | 3           | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
@@ -19,6 +21,7 @@
 | 33          | Medium     | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) |
 | 36          | Medium     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) |
 | 49          | Medium     | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) |
+| 102         | Medium     | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) |
 | 128         | Medium     | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 150         | Medium     | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) |
 | 153         | Medium     | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
@@ -28,6 +31,7 @@
 | 200         | Medium     | [Number Of Islands](https://leetcode.com/problems/number-of-islands/description/) |
 | 208         | Medium     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) |
 | 211         | Medium     | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) |
+| 235         | Medium     | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |
 | 238         | Medium     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |
 | 347         | Medium     | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 424         | Medium     | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) |
