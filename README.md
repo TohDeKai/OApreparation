@@ -7,6 +7,7 @@
 | 110         | Easy       | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |
 | 121         | Easy       | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |
 | 125         | Easy       | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
+| 141         | Easy       | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) |
 | 206         | Easy       | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
 | 217         | Easy       | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) |
 | 226         | Easy       | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) |
