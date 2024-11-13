@@ -31,6 +31,7 @@
 | 155         | Medium     | [Min Stack](https://leetcode.com/problems/min-stack/description)                                                                                                                       |
 | 165 \*      | Medium     | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/solutions/5460881/easy-to-understand-o-1-space-complexity-o-n-time-complexity-solution/)               |
 | 167         | Medium     | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                                                                                  |
+| 198         | Medium     | [House Robber](https://leetcode.com/problems/house-robber/description/)                                                                                                                |
 | 200         | Medium     | [Number Of Islands](https://leetcode.com/problems/number-of-islands/description/)                                                                                                      |
 | 208         | Medium     | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                                                                                  |
 | 211         | Medium     | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)                                                    |
