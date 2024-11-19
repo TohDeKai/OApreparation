@@ -18,6 +18,7 @@
 | 3           | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                                        |
 | 11          | Medium     | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                                                                      |
 | 15          | Medium     | [3Sum](https://leetcode.com/problems/3sum/)                                                                                                                                            |
+| 19 \*       | Medium     | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solutions/6062643/python-one-pass-solution-with-2-pointers/)                         |
 | 22          | Medium     | [Generate Paretheses](https://leetcode.com/problems/generate-parentheses/)                                                                                                             |
 | 33          | Medium     | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)                                                                            |
 | 36          | Medium     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                                                                                                |
